@@ -6,21 +6,56 @@ Data_Technician_Workbook_Week_
 
 ## Overview
 
-This repository showcases the Power BI projects and practical exercises I completed during my **Data Technician Skills Bootcamp**. The work demonstrates my ability to import, prepare, analyse and visualise data using Power BI Desktop.
+This repository contains Power BI projects and practical exercises completed during my **Data Technician Skills Bootcamp**.
 
-## Projects and Skills
+The projects demonstrate my ability to connect to multiple data sources, clean and transform raw data, create interactive reports and present business insights through clear visualisations.
 
-* Imported and analysed data from **Excel workbooks** and external **OData feeds**.
-* Used **Power Query** to clean, transform and load data into Power BI.
-* Combined information from multiple data sources to create structured reports.
-* Created interactive reports using bar charts, line charts, maps and other visualisations.
-* Analysed sales, profit, quantity, product and geographical performance.
-* Designed clear report layouts that communicate key trends and business insights.
-* Used filters and interactive visuals to help users explore the data.
-* Published completed reports to **Power BI Service** for online sharing.
-* Developed an introductory understanding of semantic models and DAX calculations.
+## Skills Demonstrated
 
-## Tools Used
+* Imported data from **Excel workbooks** and external **OData feeds**
+* Cleaned, transformed and loaded data using **Power Query**
+* Combined information from multiple data sources
+* Created relationships and structured data models
+* Designed interactive dashboards using filters and slicers
+* Built reports using bar charts, line charts, maps, tables and KPI-style visuals
+* Analysed sales, profit, quantity, products and geographical performance
+* Applied introductory **DAX calculations** and worked with semantic models
+* Published and shared reports through **Power BI Service**
+* Used data storytelling to communicate trends and business performance
+
+## Featured Projects
+
+### Product Analysis Dashboard
+
+This report explores product and sales performance across different countries, categories and customer segments.
+
+The dashboard includes:
+
+* Profit by country
+* Sales and profit trends over time
+* Sales by product category and customer segment
+* Quantity and profit comparisons by location
+* Interactive filters for exploring individual countries
+
+<img width="1575" height="819" alt="Power BI product analysis dashboard" src="https://github.com/user-attachments/assets/4c1d4724-e0cf-44fc-9adf-11a742d6b782" />
+
+---
+
+### Sales Analysis Dashboard
+
+This report was created to explore sales performance and identify important trends within the dataset.
+
+The dashboard demonstrates:
+
+* Sales performance analysis
+* Comparison of products and categories
+* Interactive filtering
+* Clear dashboard formatting and layout
+* Visual communication of key business metrics
+
+<img width="1713" height="838" alt="Power BI sales analysis dashboard" src="https://github.com/user-attachments/assets/79e9aee6-c279-4365-9fd1-8b439594f58a" />
+
+## Tools and Technologies
 
 * Power BI Desktop
 * Power BI Service
@@ -29,15 +64,14 @@ This repository showcases the Power BI projects and practical exercises I comple
 * OData
 * DAX fundamentals
 
-## Key Learning
+## Project Workflow
 
-These projects strengthened my understanding of the complete Power BI workflow, from connecting to raw data and transforming it to building interactive reports that support data-driven decision-making.
-
-Products 
-
-<img width="1575" height="819" alt="image" src="https://github.com/user-attachments/assets/4c1d4724-e0cf-44fc-9adf-11a742d6b782" />
-
-Sales Dataset
-
-<img width="1713" height="838" alt="image" src="https://github.com/user-attachments/assets/79e9aee6-c279-4365-9fd1-8b439594f58a" />
+1. Connected Power BI to the required data sources
+2. Reviewed the structure and quality of the raw data
+3. Cleaned and transformed data using Power Query
+4. Created relationships between relevant tables
+5. Built charts, filters and interactive report elements
+6. Organised the visuals into clear dashboard layouts
+7. Reviewed the results to identify trends and insights
+8. Published completed reports to Power BI Service
 
